@@ -303,17 +303,6 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2023/tables/";
           
         },
-      },{id: "post-a-post-with-table-of-contents",
-        
-          title: "a post with table of contents",
-        
-        description: "an example of a blog post with table of contents",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/al-folio/blog/2023/table-of-contents/";
-          
-        },
       },{id: "post-a-post-with-giscus-comments",
         
           title: "a post with giscus comments",
@@ -380,17 +369,6 @@ ninja.data = [{
             window.location.href = "/al-folio/blog/2020/twitter/";
           
         },
-      },{id: "post-a-post-with-disqus-comments",
-        
-          title: "a post with disqus comments",
-        
-        description: "an example of a blog post with disqus comments",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/al-folio/blog/2015/disqus-comments/";
-          
-        },
       },{id: "post-a-post-with-math",
         
           title: "a post with math",
@@ -400,17 +378,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/al-folio/blog/2015/math/";
-          
-        },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/al-folio/blog/2015/code/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
